@@ -12,4 +12,8 @@ This repository contains the code used to extract hosptial address information f
 
 ---
 
+Here is an image of the mapped addresses for the given sales territory:
+![Sales Territory Map](territory.png)
+
+
 This project was for a specific use case. It was designed to extract 300+ hospitals' address information from a 100+ page PDF document and place hospital icons on a map to show a given sales territory, but the general format could be used to extract information from various different PDF sources as well as map a collection of given addresses. If you're using it for a personal project or have any questions, please feel free to reach out at loganrichards.dev@gmail.com. 
